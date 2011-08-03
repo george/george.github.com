@@ -4,22 +4,13 @@
   <title></title>
   <link href="http://benevolentcode.com/atom.xml" rel="self"/>
   <link href="http://benevolentcode.com/"/>
-  <updated>2011-08-03T14:42:36-04:00</updated>
+  <updated>2011-08-03T16:42:06-04:00</updated>
   <id>http://benevolentcode.com/</id>
   <author>
     <name>George Anderson</name>
     
   </author>
 
-  
-  <entry>
-    <title>Test Bloggy Post</title>
-    <link href="http://benevolentcode.com/blog/2011/08/03/test-bloggy-post/"/>
-    <updated>2011-08-03T11:41:00-04:00</updated>
-    <id>http://benevolentcode.com/blog/2011/08/03/test-bloggy-post</id>
-    <content type="html">
-</content>
-  </entry>
   
   <entry>
     <title>Temporarily Redirect STDOUT in Ruby</title>
