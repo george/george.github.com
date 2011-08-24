@@ -28,7 +28,7 @@ plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
-pygments: false # default python pygments have been replaced by pygments.rb
+pygments: true # default python pygments have been replaced by pygments.rb
 
 paginate: 10 # Posts per page on the blog index
 recent_posts: 5 # Posts in the sidebar Recent Posts section
@@ -57,19 +57,19 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google Plus
-google_plus_one: true
+google_plus_one: false
 google_plus_one_size: medium
 
 # Pinboard
-pinboard_user:
-pinboard_count: 3
+# pinboard_user:
+# pinboard_count: 3
 
 # Delicious
-delicious_user:
-delicious_count: 3
+# delicious_user:
+# delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: benevolentcode
 
 # Google Analytics
 google_analytics_tracking_id:

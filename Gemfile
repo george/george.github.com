@@ -1,12 +1,13 @@
-source "http://rubygems.org"
+source :rubygems
 
-gem 'rake'
-gem 'rack'
-gem 'jekyll'
-gem 'rdiscount'
-gem 'pygments.rb'
-gem 'RedCloth'
-gem 'haml', '>= 3.1'
 gem 'compass', '>= 0.11'
-gem 'rubypants'
+gem 'haml', '>= 3.1'
+gem 'jekyll'
+gem 'powder'
+gem 'pygments.rb'
+gem 'rack'
+gem 'rake'
 gem 'rb-fsevent'
+gem 'rdiscount'
+gem 'RedCloth'
+gem 'rubypants'
