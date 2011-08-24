@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://benevolentcode.com/blog/2011/03/08/temporarily-redirect-stdout-in-ruby/</loc>
+        <lastmod>2011-08-03T12:09:20-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://benevolentcode.com/blog/archives/</loc>
+        <lastmod>2011-08-03T12:09:20-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://benevolentcode.com/</loc>
+        <lastmod>2011-08-03T12:09:20-04:00</lastmod>
+    </url>
+</urlset>
